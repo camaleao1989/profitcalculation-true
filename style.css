@@ -1,0 +1,54 @@
+li{
+    list-style: none;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    height: 130px;
+    padding: 3px 10px 20px 5px ;
+    background-image: url(container.jpg);
+    background-size: cover;
+}
+.header li{
+    float: left;
+    padding-right: 2cm;
+    opacity: 0.7;
+    color: black;
+}
+
+.header h1{
+    letter-spacing: 10px;
+}
+
+
+.main{
+    background-color: beige;
+    height: 600px;
+    padding-top: 1cm;
+}
+
+.main input{
+    height: 1cm;
+    width: 10cm;
+}
+
+.main li{
+    padding-top: 0.5cm;
+}
+
+
+.footer{
+    background-color: brown;
+    height: 200px;
+}
+
+.footer li{
+    color: white;
+    text-align: right;
+}
+
+.footer h3{
+    color: white;
+    text-align: right;
+}
